@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Eduardo Pires</h1>  
-<h3 align="center">Estudante de Sistemas de informação e dev backend</h3>  
+<h3 align="center">Dev .NET backend</h3>  
   
 - 🌱 Estou atualmente aprendendo **API, TDD, SQL Server, C#,.NET, Docker**  
   
