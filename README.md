@@ -53,7 +53,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Pires&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=888888&bg_color=00000000" alt="Eduardo Pires github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Pires&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ff695d&bg_color=00000000" alt="Eduardo Pires github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Pires&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=00000000" />
 </div>
 
