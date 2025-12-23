@@ -4,7 +4,7 @@
 
 ### Contato: 
 <a href="https://linkedin.com/in/eduardo-santos-pires" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:eduardo_pires.dev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="mailto:eduardo_pires.dev@outlook.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 ### Principais tecnologias e ferramentas:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
